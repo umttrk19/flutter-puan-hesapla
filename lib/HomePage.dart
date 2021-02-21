@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       resizeToAvoidBottomPadding: false,
       appBar: AppBar(
-        title: Text('Puan Hesaplama'),
+        title: Text('Puan Hesassplama'),
       ),
       body: uygulamaGovdesi(),
     );
